@@ -1,0 +1,9 @@
+[
+    {
+        "id": "project-1",
+        "title": "CLI Tool",
+        "description": "Build a project tracker",
+        "due_date": "2026-12-01",
+        "owner_id": "user-1"
+    }
+]
